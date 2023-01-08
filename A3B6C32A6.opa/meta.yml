@@ -1,0 +1,19 @@
+id: A3B6C32A6
+title: Brief Petitionary Offering to the Five Achi Sisters
+type: translation
+pechas:
+- IC9A2C384
+- I079C44A0
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:32:44.069680
+  last_modified_at: 2023-01-04 12:32:44.069692
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IC9A2C384/D339: 64CC
+  I079C44A0/BB53: 64CC
